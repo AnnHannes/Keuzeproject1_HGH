@@ -14,7 +14,7 @@ Volgende tool hoef je maar eenmalig te installeren:
 - [**Git**](https://git-scm.com/)
 
 
-## Stappenplan voor een nieuwe project op basis van deze repository
+## Stappenplan voor een nieuw project op basis van deze repository
 
 Werk je met twee of meer teamleden aan hetzelfde project, dan volg je best deze werkwijze. Begin alvast met een teamleader 🎓 aan te duiden en een naam voor het project te kiezen.
 
@@ -22,7 +22,7 @@ Werk je met twee of meer teamleden aan hetzelfde project, dan volg je best deze 
 
 (is normaal al in orde voor alle teamleden want in Webdesign Basis ben je hier al mee gestart)
 
-1. Maak, met je mailaderes van de school, een GitHub-account aan op https://github.com. (Als student krijg je extra features zoals private repos)
+1. Maak, met je mailadres van de school, een GitHub-account aan op https://github.com. (Als student krijg je extra features zoals private repos)
 2. Upgrade van je education account via https://education.github.com/
 3. Stel met volgende commando’s lokaal je identiteit in:   
 `git config ‐‐global user.name "je naam"`   
@@ -34,13 +34,13 @@ Werk je met twee of meer teamleden aan hetzelfde project, dan volg je best deze 
 
 **De overige teamleden 👤👤👤 doen voorlopig nog niets!**
 
-1. Clone deze repo 
+1. Clone deze repo `git clone https://github.com/AnnHannes/Keuzeproject1_HGH.git`
 2. Wis de map **.git** in de repo
 3. Initialiseer een nieuwe Git-repo `git init`
 4. Voeg alle bestanden (uitgezonderd deze die zijn uitgesloten via **.gitignore**) uit deze map aan de staging area toe   
 `git add .`
 5. Verplaats de bestanden van de staging area naar de lokale repo `git commit -m "Startbestanden"`
-6. Pas de inhoud van de ***README*** eventueel aan, je mag de algemene instructies verwijderen en bijvoorbeeld je teamnaam en teamleden op lijn 2 zetten 
+6. Pas de inhoud van ***README.md*** eventueel aan, je mag de algemene instructies verwijderen en bijvoorbeeld je teamnaam en teamleden op lijn 2 zetten 
 
 ### Opzetten van een remote repo door de teamleader 🎓
 
