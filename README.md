@@ -51,7 +51,7 @@ bv: `git remote add origin https://github.com/teamleader/projectNaam.git`
 
 ### Teamleader 🎓 nodigt andere teamleden 👤👤👤 uit voor samenwerking
 
-1. Klik op de pagina **https://github.com/teamleader/projectNaam** op ***settings***
+1. Klik op de pagina https://github.com/teamleader/projectNaam op ***settings***
 2. Klik links in het menu op ***Collaborators***
 3. Nodig overige teamleden 👤👤👤 uit
 4. Teamleden aanvaarden de uitnodiging via een e-mail van GitHub
