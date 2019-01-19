@@ -49,14 +49,14 @@ Werk je met twee of meer teamleden aan hetzelfde project, dan volg je best deze 
 bv: `git remote add origin https://github.com/teamleader/projectNaam.git`
 3. Push de lokale repo naar de remote repo `git push ‐u origin master`
 
-### Teamleader 🎓 nodigt andere teamleden 👤👤👤 uit voor samenwerking
+### Uitnodigen van andere teamleden 👤👤👤 voor samenwerking door teamleader 🎓
 
 1. Klik op de pagina https://github.com/teamleader/projectNaam op ***settings***
 2. Klik links in het menu op ***Collaborators***
 3. Nodig overige teamleden 👤👤👤 uit
 4. Teamleden aanvaarden de uitnodiging via een e-mail van GitHub
 
-### Teamleden 👤👤👤 clonen van een remote repo
+### Clonen van de remote repo door andere teamleden 👤👤👤
 
 1. Elk teamlid maakt een exacte copy van de remote repo `git clone https://github.com/teamleader/projectNaam.git`
 
